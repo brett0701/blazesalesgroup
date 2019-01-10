@@ -1,0 +1,24 @@
+{
+  "name": "wwwblaze",
+  "version": "1.0.0",
+  "description": "Blaze Sales Group website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brett0701/blazesalesgroup.git"
+  },
+  "author": "Brett Davidson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brett0701/blazesalesgroup/issues"
+  },
+  "homepage": "https://github.com/brett0701/blazesalesgroup#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
